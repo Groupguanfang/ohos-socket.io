@@ -1,0 +1,28 @@
+{
+	"app": {
+		"bundleName": "com.yyz116.emitter",
+		"debug": true,
+		"versionCode": 1000000,
+		"versionName": "1.0.0",
+		"minAPIVersion": 50000012,
+		"targetAPIVersion": 50000012,
+		"apiReleaseType": "Release",
+		"compileSdkVersion": "5.0.0.65",
+		"compileSdkType": "HarmonyOS",
+		"appEnvironments": [],
+		"bundleType": "app"
+	},
+	"module": {
+		"name": "library",
+		"type": "har",
+		"deviceTypes": [
+			"default",
+			"tablet"
+		],
+		"packageName": "@yyz116/engine.io-client",
+		"installationFree": false,
+		"virtualMachine": "ark12.0.2.0",
+		"compileMode": "esmodule",
+		"dependencies": []
+	}
+}

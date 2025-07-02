@@ -1,0 +1,11 @@
+{
+  "modelVersion": "5.0.4",
+  "description": "Please describe the basic information.",
+  "dependencies": {
+    "@yyz116/socket.io-client": "^1.0.2"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.21"
+  },
+  "compileOnlyDependencies": {}
+}
