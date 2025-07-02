@@ -5,7 +5,7 @@
 
 ## 何处下载？
 
-[index.js](entry/src/main/js/MainAbility/socket/index.js)
-[index.d.ts](entry/src/main/js/MainAbility/socket/index.d.ts)
+- index.js: [entry/src/main/js/MainAbility/socket/index.js](entry/src/main/js/MainAbility/socket/index.js)
+- index.d.ts: [entry/src/main/js/MainAbility/socket/index.d.ts](entry/src/main/js/MainAbility/socket/index.d.ts)
 
 将两个文件以同一名称放在同一目录下，即可在deveco studio中享有完整的类型提示。
